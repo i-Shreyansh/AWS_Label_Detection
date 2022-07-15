@@ -1,6 +1,6 @@
-# Self_Driving_Car
+# AWS_Label_Detection
 
-> * Self_Driving_Car image AI
-> * starting of openCV module
+> * This program runs main.py and asks image location and max no. of labels to shows labels in image.
+
 
 ## [Installation Guide](https://github.com/i-Shreyansh/Self_Driving_Car/blob/main/Installation_Guide.md#system-config)
