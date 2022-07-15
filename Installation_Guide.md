@@ -19,6 +19,11 @@
 * creating virtual environment: "virtualenv venv" >>
 * Activating virtual environment: "./venv/Scripts/Activate"
 
+  > Important
+  >
+* Make your [aws console](https://ap-south-1.console.aws.amazon.com/console/home?nc2=h_ct&region=ap-south-1&src=header-signin#) account
+* create user and add rekognition and s3 services and generate AWS_access_id and AWS_access_key in credential.csv folder in repository folder .
+
 **< Step 3 >**
 
 * installing Dependencies: "pip install -r requirements.txt"
